@@ -4,7 +4,7 @@
 LOS EXPLORADORES DE ARRECIFES
 
 
-LOS REPOSITORIOS:
+Los repositorios:
 
 https://github.com/UsielOM/Oceandex
 
