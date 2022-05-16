@@ -6,9 +6,9 @@
 
 ## Los repositorios:
 
-https://github.com/UsielOM/Oceandex
+## FRONT-END https://github.com/UsielOM/Oceandex
 
-https://github.com/3rickDJ/API-SaveTheOcean
+## BACK-ENDhttps://github.com/3rickDJ/API-SaveTheOcean
 
 
 ## Problemática:
